@@ -99,4 +99,40 @@
 ## [Output]: Now, it says a heavy plan and suggesting you to consider a bigger plan:
 <img width="1440" height="900" alt="Screenshot 2025-10-07 at 4 32 43 PM" src="https://github.com/user-attachments/assets/61f7c15b-951e-4d25-9733-d3d548eead79" />
 
-#
+# Change Password Logic
+
+## [Input]: To access the Change Password Logic program, enter the number 4 in the choice box:
+<img width="1440" height="900" alt="Screenshot 2025-10-07 at 8 16 15 PM" src="https://github.com/user-attachments/assets/c119a6fd-3a92-4ea5-8646-58215b00c50d" />
+
+## [Input]: Now, it is asking for the old password, let's try entering the wrong password:
+<img width="1440" height="900" alt="Screenshot 2025-10-07 at 8 16 29 PM" src="https://github.com/user-attachments/assets/95bcde64-e75f-4b0c-85f8-f075826f30c7" />
+
+## [Output]: It says "Password do not match":
+<img width="1440" height="900" alt="Screenshot 2025-10-07 at 8 16 31 PM" src="https://github.com/user-attachments/assets/c39aacc2-1af1-4c8a-a814-2ea1aeb74719" />
+
+## [Input]: Now, let's enter the correct password which is siddharth@2025:
+<img width="1440" height="900" alt="Screenshot 2025-10-07 at 8 16 39 PM" src="https://github.com/user-attachments/assets/ddf887ce-3270-4483-87d2-3941359887db" />
+
+## [Note]: Now, it showed another prompt:
+<img width="1440" height="900" alt="Screenshot 2025-10-07 at 8 16 47 PM" src="https://github.com/user-attachments/assets/fb9d1391-64d5-49a8-9ca5-37e254c34a64" />
+
+## [Input]: Now, enter the password that match the old password:
+<img width="1440" height="900" alt="Screenshot 2025-10-07 at 8 16 54 PM" src="https://github.com/user-attachments/assets/a3890310-07b2-44aa-a194-130596eccd25" />
+
+## [Output]: Now, it says "Same password were used":
+<img width="1440" height="900" alt="Screenshot 2025-10-07 at 8 16 57 PM" src="https://github.com/user-attachments/assets/ce620e54-ec25-4ddb-89e4-3e3563f09b97" />
+
+## [Input]: Let's enter the completely new password:
+<img width="1440" height="900" alt="Screenshot 2025-10-07 at 8 17 10 PM" src="https://github.com/user-attachments/assets/cfc5543c-27f8-4b21-b5a1-d8ba83f8d505" />
+
+## [Input]: Now, it asks for a Comfirmation, let's enter an unmatched password of the new password:
+<img width="1440" height="900" alt="Screenshot 2025-10-07 at 8 17 16 PM" src="https://github.com/user-attachments/assets/3691c34f-2702-4bae-8d25-db17c739d048" />
+
+## [Output]: Now, it says "Password do not match":
+<img width="1440" height="900" alt="Screenshot 2025-10-07 at 8 17 18 PM" src="https://github.com/user-attachments/assets/eb67a8a7-2009-4a4f-b483-eaae9a3ef607" />
+
+## [Input]: Let's enter the correct password:
+<img width="1440" height="900" alt="Screenshot 2025-10-07 at 8 17 37 PM" src="https://github.com/user-attachments/assets/ecad78bf-b99c-445b-819a-897c02c398e8" />
+
+## [Output]: Password changed successfully!
+<img width="1440" height="900" alt="Screenshot 2025-10-07 at 8 17 40 PM" src="https://github.com/user-attachments/assets/e84633d3-2068-4028-9e2c-dc94a0d9b115" />

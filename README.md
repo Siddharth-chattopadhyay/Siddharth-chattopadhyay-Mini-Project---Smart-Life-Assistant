@@ -44,3 +44,27 @@
 
 ## [Output]: It will say "underweight":
 <img width="1440" height="900" alt="Screenshot 2025-10-07 at 3 36 02 PM" src="https://github.com/user-attachments/assets/8678820a-73cc-4881-aea3-dd9087bdcbd6" />
+
+
+# Monthly Budget Planner
+
+## [Input]: To use the Monthly Budget Planner program, enter the number 2 in the choice box:
+<img width="1440" height="900" alt="Screenshot 2025-10-07 at 4 09 49 PM" src="https://github.com/user-attachments/assets/5ba93786-a885-4183-84fe-16f0b7158269" />
+
+## [Input]: Enter 25000 in the box:
+<img width="1440" height="900" alt="Screenshot 2025-10-07 at 4 10 24 PM" src="https://github.com/user-attachments/assets/e1a19580-73ee-40fc-958c-402800d9d526" />
+
+## [Output]: It will show "Balanced budget!":
+<img width="1440" height="900" alt="Screenshot 2025-10-07 at 4 10 26 PM" src="https://github.com/user-attachments/assets/09a04827-4436-4236-8910-b13169676f9d" />
+
+## [Input]: Now, let's try something else, enter 10000 in the budget box:
+<img width="1440" height="900" alt="Screenshot 2025-10-07 at 4 18 00 PM" src="https://github.com/user-attachments/assets/13bd7c8a-1bce-477b-b05b-acd50091819c" />
+
+## [Output]: Same, shows the "balanced budget!":
+<img width="1440" height="900" alt="Screenshot 2025-10-07 at 4 18 05 PM" src="https://github.com/user-attachments/assets/ee4650f3-98b6-4653-99fe-bea34db8537f" />
+
+## [Input]: Let's enter 9999:
+<img width="1440" height="900" alt="Screenshot 2025-10-07 at 4 19 37 PM" src="https://github.com/user-attachments/assets/f64e27af-e74b-4562-85f3-fd5d33c2b373" />
+
+## [Output]: This time, it showed a low budget message:
+<img width="1440" height="900" alt="Screenshot 2025-10-07 at 4 19 40 PM" src="https://github.com/user-attachments/assets/8b95d03d-0c70-4abb-87d1-14fd86f2ea18" />

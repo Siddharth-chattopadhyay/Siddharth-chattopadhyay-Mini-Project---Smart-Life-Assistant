@@ -93,8 +93,10 @@
 ## [Output]: It will show "Low usage":
 <img width="1440" height="900" alt="Screenshot 2025-10-07 at 4 31 29 PM" src="https://github.com/user-attachments/assets/47e911c1-a8f1-41ff-8d7c-505358f387d1" />
 
-## [Input]: Let's try 16 instead of 6:
+## [Input]: Let's try 16 instead of 3:
 <img width="1440" height="900" alt="Screenshot 2025-10-07 at 4 32 41 PM" src="https://github.com/user-attachments/assets/d44cc311-eb20-4d8d-bebd-f3a9b14bab0f" />
 
 ## [Output]: Now, it says a heavy plan and suggesting you to consider a bigger plan:
 <img width="1440" height="900" alt="Screenshot 2025-10-07 at 4 32 43 PM" src="https://github.com/user-attachments/assets/61f7c15b-951e-4d25-9733-d3d548eead79" />
+
+#

@@ -68,3 +68,33 @@
 
 ## [Output]: This time, it showed a low budget message:
 <img width="1440" height="900" alt="Screenshot 2025-10-07 at 4 19 40 PM" src="https://github.com/user-attachments/assets/8b95d03d-0c70-4abb-87d1-14fd86f2ea18" />
+
+## [Input]: Now, let's enter 30001 in the budget box:
+<img width="1440" height="900" alt="Screenshot 2025-10-07 at 4 22 27 PM" src="https://github.com/user-attachments/assets/89c25da6-07d0-4c22-90f4-0e98c81c002f" />
+
+## [Output]: Now, it says that your budget is great and suggested you to consider investing in SIPs:
+<img width="1440" height="900" alt="Screenshot 2025-10-07 at 4 22 29 PM" src="https://github.com/user-attachments/assets/29623c46-8fdb-4de3-b322-86d576067aae" />
+
+
+# Mobile Data Usage Alert System
+
+## [Input]: To access the Mobile Data Usage Alert System, enter 3 in the choice box:
+<img width="1440" height="900" alt="Screenshot 2025-10-07 at 4 28 49 PM" src="https://github.com/user-attachments/assets/16983901-a7ca-493e-9422-9746ca5f30ee" />
+
+## [Input]: Now, enter 6 in the next box:
+<img width="1440" height="900" alt="Screenshot 2025-10-07 at 4 28 57 PM" src="https://github.com/user-attachments/assets/805bb10f-fafd-496e-8b4b-4e29136d0772" />
+
+## [Output]: It will show normal usage:
+<img width="1440" height="900" alt="Screenshot 2025-10-07 at 4 29 00 PM" src="https://github.com/user-attachments/assets/1881095f-33ee-419c-af51-10f91588863d" />
+
+## [Input]: Now, enter 3 instead of 6:
+<img width="1440" height="900" alt="Screenshot 2025-10-07 at 4 31 27 PM" src="https://github.com/user-attachments/assets/33f18780-ce58-4e5b-a323-a302b3730704" />
+
+## [Output]: It will show "Low usage":
+<img width="1440" height="900" alt="Screenshot 2025-10-07 at 4 31 29 PM" src="https://github.com/user-attachments/assets/47e911c1-a8f1-41ff-8d7c-505358f387d1" />
+
+## [Input]: Let's try 16 instead of 6:
+<img width="1440" height="900" alt="Screenshot 2025-10-07 at 4 32 41 PM" src="https://github.com/user-attachments/assets/d44cc311-eb20-4d8d-bebd-f3a9b14bab0f" />
+
+## [Output]: Now, it says a heavy plan and suggesting you to consider a bigger plan:
+<img width="1440" height="900" alt="Screenshot 2025-10-07 at 4 32 43 PM" src="https://github.com/user-attachments/assets/61f7c15b-951e-4d25-9733-d3d548eead79" />
